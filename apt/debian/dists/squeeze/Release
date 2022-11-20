@@ -1,0 +1,40 @@
+Origin: testdebrepo
+Label: testdebrepo
+Codename: squeeze
+Date: Sun, 20 Nov 2022 18:54:56 UTC
+Architectures: i386 amd64
+Components: main
+Description: Apt repository for my_test_repo
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 68bdc1c83769cda5de945a77eb9a244e 119 main/binary-i386/Release
+ 0e37cbb0375f033e71fa9b24f90b6aea 513 main/binary-amd64/Packages
+ abe95fc76ea9bde4d2d2f61d608a4b33 360 main/binary-amd64/Packages.gz
+ 8b939927d92ad8513f6394b4a7050502 120 main/binary-amd64/Release
+ 27d58e50709d18eb98859c77cca82b90 65 main/Contents-i386
+ 1fd31403618fd8b765b0738230f5a085 36 main/Contents-i386.gz
+ b4c4b7b3ed2d81b4ed6292cb2b12bf1e 273 main/Contents-amd64
+ f6ffda0407c99110a060fb1bbf6633d2 127 main/Contents-amd64.gz
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 73b766c4553bae26c3df1d7c045c98a9daa9597b 119 main/binary-i386/Release
+ 6e9a83f5c08e4f9e0141520f02cf6a04ff81909a 513 main/binary-amd64/Packages
+ bd564dc24f7e20e6d26f136482fc66745c25ebb3 360 main/binary-amd64/Packages.gz
+ 39478bcbf2b054f8bd6cf5b53f8513964ba228b7 120 main/binary-amd64/Release
+ fae4412e63f2f45c1e651dbd256890008330cf4b 65 main/Contents-i386
+ 971e263d7f444314afabcbf4a73376a4dba3b2e5 36 main/Contents-i386.gz
+ 53f06b2e9c1c891ee918d724615d5b13233b98b8 273 main/Contents-amd64
+ a89dd3050bc4f8ca48e12e2ac22186534e1bf296 127 main/Contents-amd64.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 09bea88440c90444f5c764b1d6865794b6d764e7b6d0ceb94781dbf08fb3574d 119 main/binary-i386/Release
+ 46df5f9ab8e331e35cc5342845f07353ae5492e50fcf7e7153b0adc393640efc 513 main/binary-amd64/Packages
+ 44ac9d6ccd1c6b3d31b36deff56d670eb0bef17ec142fff37444d736c6c8d20e 360 main/binary-amd64/Packages.gz
+ 52a3c64f6a04f26bb1e52dab1c540bfae31d4ea8b2573529c9f995d2afe0e515 120 main/binary-amd64/Release
+ cf13e85fc3cdf7bc0182ba23034b735b2544edbc0074dcbe617974164ae3be9f 65 main/Contents-i386
+ 44818733e04c03289b19184fc4f4d7cd61e9496fd94bc254744cd5c7d10c2ab6 36 main/Contents-i386.gz
+ 3e85dd344365e05b2de3d02138e5cd44eba6aa5b9d3127b35151d30e08fa0717 273 main/Contents-amd64
+ e9ac941968a5b87555280d96d7ad3cc57d98b43ff220afcc1e63dbb3ff16ca55 127 main/Contents-amd64.gz

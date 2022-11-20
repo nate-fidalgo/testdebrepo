@@ -1,0 +1,5 @@
+Component: main
+Origin: testdebrepo
+Label: testdebrepo
+Architecture: i386
+Description: Apt repository for my_test_repo

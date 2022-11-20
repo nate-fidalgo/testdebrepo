@@ -1,0 +1,8 @@
+Origin: testdebrepo
+Label: testdebrepo
+Codename: squeeze
+Architectures: i386 amd64
+Components: main
+Description: Apt repository for my_test_repo
+SignWith: B6AAC0F0FC40E11D
+Contents: percomponent

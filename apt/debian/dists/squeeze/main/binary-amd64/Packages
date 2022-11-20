@@ -1,0 +1,16 @@
+Package: packagecloud-test
+Version: 1.1-2
+Architecture: amd64
+Maintainer: Joe Damato <joe@packagecloud.io>
+Installed-Size: 39
+Depends: libc6 (>= 2.2.5)
+Priority: optional
+Section: misc
+Filename: pool/main/p/packagecloud-test/packagecloud-test_1.1-2_amd64.deb
+Size: 2830
+SHA256: 8ed8bb73915088d422c26ce3e92c6477b3afdfcd7377713880db8ba68a697289
+SHA1: ba4500d3b385aced8c8ed3c48981eba2dd2005b4
+MD5sum: b709d6a5b2e6883ee97803e5fd1b204e
+Description: packagecloud-test
+ a hello world program from the packagecloud crew
+
